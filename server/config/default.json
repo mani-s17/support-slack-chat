@@ -1,0 +1,4 @@
+{
+  "apiToken" : "<Add Your Slack Token Here>",
+  "acceptableOrigin": "http://localhost"
+}
