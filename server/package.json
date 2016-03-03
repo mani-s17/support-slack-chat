@@ -8,7 +8,6 @@
   "dependencies": {
     "express": "*",
     "request": "*",
-    "cheerio": "*",
     "body-parser": "*",
     "config": "*"
   }
